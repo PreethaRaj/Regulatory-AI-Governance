@@ -1,0 +1,16 @@
+{
+  "model_name": "regulatory-text-classifier",
+  "model_version": "v1.0.0",
+  "approval_status": "APPROVED",
+  "approved_by": {
+    "role": "Regulatory AI Review Board",
+    "department": "Compliance & Risk"
+  },
+  "approval_date": "2026-02-10",
+  "conditions": [
+    "Human-in-the-loop required",
+    "Not for automated decision-making",
+    "Synthetic data limitations acknowledged"
+  ],
+  "next_review_due": "2026-08-10"
+}

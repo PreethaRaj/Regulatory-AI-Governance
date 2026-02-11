@@ -1,0 +1,14 @@
+[
+  {
+    "id": "amb-002",
+    "top_class": "ENERGY_EFFICIENCY",
+    "second_class": "ENVIRONMENTAL",
+    "gap": 0.11538557145665751
+  },
+  {
+    "id": "amb-004",
+    "top_class": "WIRELESS_EMC",
+    "second_class": "ENVIRONMENTAL",
+    "gap": 0.08733196103801258
+  }
+]

@@ -1,0 +1,312 @@
+{
+  "CHEMICAL_RESTRICTION": [
+    {
+      "term": "disclosed",
+      "weight": 0.9238674405867157
+    },
+    {
+      "term": "composition",
+      "weight": 0.9238674405867157
+    },
+    {
+      "term": "chemical",
+      "weight": 0.9238674405867157
+    },
+    {
+      "term": "disclosed effective",
+      "weight": 0.9238674405867157
+    },
+    {
+      "term": "chemical composition",
+      "weight": 0.9238674405867157
+    },
+    {
+      "term": "product chemical",
+      "weight": 0.9238674405867157
+    },
+    {
+      "term": "composition disclosed",
+      "weight": 0.7617161481612865
+    },
+    {
+      "term": "restricted",
+      "weight": 0.7403605117065303
+    },
+    {
+      "term": "thresholds",
+      "weight": 0.7403605117065303
+    },
+    {
+      "term": "thresholds effective",
+      "weight": 0.7403605117065303
+    },
+    {
+      "term": "restricted substances",
+      "weight": 0.7403605117065303
+    },
+    {
+      "term": "substances",
+      "weight": 0.7403605117065303
+    },
+    {
+      "term": "exceed thresholds",
+      "weight": 0.7403605117065303
+    },
+    {
+      "term": "product restricted",
+      "weight": 0.7403605117065303
+    },
+    {
+      "term": "hazardous",
+      "weight": 0.7021784600515729
+    }
+  ],
+  "ENERGY_EFFICIENCY": [
+    {
+      "term": "energy",
+      "weight": 1.3153971112430305
+    },
+    {
+      "term": "usage",
+      "weight": 0.8210686418652654
+    },
+    {
+      "term": "optimized",
+      "weight": 0.8210686418652654
+    },
+    {
+      "term": "optimized effective",
+      "weight": 0.8210686418652654
+    },
+    {
+      "term": "product energy",
+      "weight": 0.8210686418652654
+    },
+    {
+      "term": "energy usage",
+      "weight": 0.8210686418652654
+    },
+    {
+      "term": "ratings effective",
+      "weight": 0.809822063078481
+    },
+    {
+      "term": "minimum energy",
+      "weight": 0.809822063078481
+    },
+    {
+      "term": "minimum",
+      "weight": 0.809822063078481
+    },
+    {
+      "term": "meet minimum",
+      "weight": 0.809822063078481
+    },
+    {
+      "term": "efficiency",
+      "weight": 0.809822063078481
+    },
+    {
+      "term": "ratings",
+      "weight": 0.809822063078481
+    },
+    {
+      "term": "energy efficiency",
+      "weight": 0.809822063078481
+    },
+    {
+      "term": "efficiency ratings",
+      "weight": 0.809822063078481
+    },
+    {
+      "term": "power consumption",
+      "weight": 0.7934209621787276
+    }
+  ],
+  "ENVIRONMENTAL": [
+    {
+      "term": "environmental",
+      "weight": 1.3267637909176813
+    },
+    {
+      "term": "documented",
+      "weight": 0.962952072965249
+    },
+    {
+      "term": "environmental impact",
+      "weight": 0.962952072965249
+    },
+    {
+      "term": "impact",
+      "weight": 0.962952072965249
+    },
+    {
+      "term": "product environmental",
+      "weight": 0.962952072965249
+    },
+    {
+      "term": "documented effective",
+      "weight": 0.962952072965249
+    },
+    {
+      "term": "reduction",
+      "weight": 0.7846988652255759
+    },
+    {
+      "term": "reduction measures",
+      "weight": 0.7846988652255759
+    },
+    {
+      "term": "waste reduction",
+      "weight": 0.7846988652255759
+    },
+    {
+      "term": "waste",
+      "weight": 0.7846988652255759
+    },
+    {
+      "term": "measures effective",
+      "weight": 0.7846988652255759
+    },
+    {
+      "term": "measures",
+      "weight": 0.7846988652255759
+    },
+    {
+      "term": "requires waste",
+      "weight": 0.6865291343820215
+    },
+    {
+      "term": "impact documented",
+      "weight": 0.6757638832289958
+    },
+    {
+      "term": "protection norms",
+      "weight": 0.6331972333794119
+    }
+  ],
+  "PRODUCT_SAFETY": [
+    {
+      "term": "safety",
+      "weight": 1.304044642844548
+    },
+    {
+      "term": "users",
+      "weight": 0.9932509867221707
+    },
+    {
+      "term": "risk users",
+      "weight": 0.9932509867221707
+    },
+    {
+      "term": "risk",
+      "weight": 0.9932509867221707
+    },
+    {
+      "term": "users effective",
+      "weight": 0.9932509867221707
+    },
+    {
+      "term": "pose",
+      "weight": 0.9932509867221707
+    },
+    {
+      "term": "pose risk",
+      "weight": 0.9932509867221707
+    },
+    {
+      "term": "meet mechanical",
+      "weight": 0.8171995334409392
+    },
+    {
+      "term": "safety standards",
+      "weight": 0.8171995334409392
+    },
+    {
+      "term": "mechanical",
+      "weight": 0.8171995334409392
+    },
+    {
+      "term": "mechanical safety",
+      "weight": 0.8171995334409392
+    },
+    {
+      "term": "standards effective",
+      "weight": 0.8171995334409392
+    },
+    {
+      "term": "sale effective",
+      "weight": 0.7586331064067708
+    },
+    {
+      "term": "safety certification",
+      "weight": 0.7586331064067708
+    },
+    {
+      "term": "certification sale",
+      "weight": 0.7586331064067708
+    }
+  ],
+  "WIRELESS_EMC": [
+    {
+      "term": "emission",
+      "weight": 0.8876911055868375
+    },
+    {
+      "term": "emission limits",
+      "weight": 0.8876911055868375
+    },
+    {
+      "term": "electromagnetic emission",
+      "weight": 0.8876911055868375
+    },
+    {
+      "term": "electromagnetic",
+      "weight": 0.8876911055868375
+    },
+    {
+      "term": "operate electromagnetic",
+      "weight": 0.8876911055868375
+    },
+    {
+      "term": "operate",
+      "weight": 0.8876911055868375
+    },
+    {
+      "term": "required effective",
+      "weight": 0.8362762380054807
+    },
+    {
+      "term": "required",
+      "weight": 0.8362762380054807
+    },
+    {
+      "term": "standards required",
+      "weight": 0.8362762380054807
+    },
+    {
+      "term": "product compliance",
+      "weight": 0.8362762380054807
+    },
+    {
+      "term": "emc standards",
+      "weight": 0.8362762380054807
+    },
+    {
+      "term": "emc",
+      "weight": 0.8362762380054807
+    },
+    {
+      "term": "compliance",
+      "weight": 0.8362762380054807
+    },
+    {
+      "term": "compliance emc",
+      "weight": 0.8362762380054807
+    },
+    {
+      "term": "shall operate",
+      "weight": 0.8235243349062834
+    }
+  ]
+}

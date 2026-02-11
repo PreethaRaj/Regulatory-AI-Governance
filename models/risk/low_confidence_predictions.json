@@ -1,0 +1,26 @@
+[
+  {
+    "id": "amb-001",
+    "text": "This product must comply with RoHS substance restrictions while also meeting RF exposure and EMC emission limits.",
+    "predicted": "WIRELESS_EMC",
+    "confidence": 0.4684790143812986
+  },
+  {
+    "id": "amb-002",
+    "text": "Energy efficiency requirements apply alongside environmental waste disposal and recycling directives.",
+    "predicted": "ENERGY_EFFICIENCY",
+    "confidence": 0.42420133682589944
+  },
+  {
+    "id": "amb-003",
+    "text": "Wireless devices must meet EMC standards and product safety certification before market release.",
+    "predicted": "PRODUCT_SAFETY",
+    "confidence": 0.49107635059138616
+  },
+  {
+    "id": "amb-004",
+    "text": "Chemical content reporting is required under REACH as part of broader environmental compliance.",
+    "predicted": "WIRELESS_EMC",
+    "confidence": 0.32603804560748345
+  }
+]
